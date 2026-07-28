@@ -1,2 +1,1 @@
-hello this is a verification file of mu project 
-sentinal Ai
+https://adi97790.github.io/.well-known/sentinelscope-verification.txt
